@@ -2,7 +2,7 @@
 
 I needed to be able to dynamically get the value of a json object.
 
-Like if I had a json object of:
+If I had a json object of:
 
 ```json
 {
